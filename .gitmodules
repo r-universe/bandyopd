@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "SMARTp"]
 	path = SMARTp
 	url = https://github.com/bandyopd/smartp
-	shallow = true
-	registered = true
